@@ -1,0 +1,20 @@
+type: test
+#type: fix
+#type: post
+
+titre: Titre du test
+
+
+objet: Objet du test
+
+
+contexte: Contexte du test 
+
+
+corps: Corps du test 
+
+
+resultats:  Résultats du test
+
+
+auteur: Fourny Nathan
